@@ -3,7 +3,7 @@ class Smudge < Formula
   desc "Multi-touch support for external USB touchscreens on macOS"
   homepage "https://github.com/dfjay/smudge"
   url "https://github.com/dfjay/smudge/releases/download/v0.1.0/smudge-0.1.0-macos-universal.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "edcaf3bc4e8bb47fe5530e797856377043fed3f44993503f1a8d0cb4f0607830"
   license "MIT"
 
   depends_on macos: :sonoma
